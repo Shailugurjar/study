@@ -1,0 +1,8 @@
+
+.splide__slide {
+    display: none;
+  }
+  
+  .splide__slide.active {
+    display: block;
+  }

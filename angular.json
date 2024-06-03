@@ -87,12 +87,17 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+  "node_modules/slick-carousel/slick/slick.css",
+  "node_modules/slick-carousel/slick/slick-theme.css"
             ],
             "scripts": []
           }
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "890273dd-5ac0-40d1-85d7-4ab819b59ffb"
   }
 }
